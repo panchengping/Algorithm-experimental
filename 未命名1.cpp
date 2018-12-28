@@ -1,7 +1,11 @@
 #include<iostream>
 using namespace std;
+#include<cstring>
 int main()
 {
-	string s="°®";
-	cout<<s;
+	char s='ÅË',t=-54; 
+	cout<<(int)s;
+	cout<<t;	
+//	int a=(int)s;
+	//cout<<a;
  } 
