@@ -6,6 +6,8 @@ int main()
 	char s='ек',t=-54; 
 	cout<<(int)s;
 	cout<<t;	
+	int w;
+	//ashdasd 
 //	int a=(int)s;
 	//cout<<a;
  } 
